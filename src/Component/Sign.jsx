@@ -24,7 +24,7 @@ function Sign() {
             Forgot your password?
           </p>
           <button className="uppercase bg-red-600 text-white font-bold w-[38vw] h-10 mt-10 cursor-pointer">
-            Sign in ?
+            Sign in
           </button>
           <h4 className="uppercase text-center ml-26 mt-10 w-full">
             NOT MEMBER? BECOME ON TODAY
