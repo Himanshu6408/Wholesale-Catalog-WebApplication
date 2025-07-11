@@ -16,7 +16,7 @@ function Createaccount() {
               className="border-b-2 w-3/2 mt-3 outline-none py-2"
               type="text"
               placeholder="First Name"
-            />
+            /> 
             <input
               className="border-b-2 w-3/2 mt-4 outline-none py-2"
               type="text"

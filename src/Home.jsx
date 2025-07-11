@@ -3,7 +3,7 @@ import Hero from "./Component/Hero";
 import Product from "./Component/Product";
 
 const Home = () => {
-  return (
+  return ( 
     <>
   
       <Hero />

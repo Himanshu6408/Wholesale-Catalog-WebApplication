@@ -22,7 +22,7 @@ function Hero() {
         {/* Right: Image Slider */}
         <div className="w-1/1 relative h-[350px] mr-20">
           <img
-            src={images[currentIndex]}
+            src={images[currentIndex]} 
             alt="slider"
             className="w-full h-full object-cover transition-all duration-700"
           />

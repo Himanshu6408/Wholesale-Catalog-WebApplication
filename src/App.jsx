@@ -12,7 +12,7 @@ import Sign from "./Component/Sign";
 import Createaccount from "./Component/Createaccount";
 
 function App() {
-  return (
+  return ( 
     <div className="bg-gray-100 flex overflow-hidden">
       <div className="w-full">
         <Routes>
